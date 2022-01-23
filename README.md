@@ -4,7 +4,7 @@
 Skills: Python
 
 - 🔭 I’m currently working on SchoolVR 
-- 🌱 I’m currently learning Django and Spanish 
+- 🌱 I’m currently learning Django and Unreal Engine 
 - 🤔 I’m looking for help with SchoolVR 
 
 
