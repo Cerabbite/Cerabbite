@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Kevin Giesberts
-#### I am a student at Heerbeeck College
 
 Skills: Python
 
