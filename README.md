@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kevin Giesberts
 
-Skills: Python, C, C#
+Skills: Python, C#
 
 - 🔭 I’m currently working on [Virtual Learning Lab](https://github.com/KevinGiesberts/Virtual-Learning-Lab)
 - 🌱 I’m currently learning Django and Unity
