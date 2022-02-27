@@ -5,7 +5,7 @@ Skills: Python, C#
 - 🔭 I’m currently working on [Virtual Learning Lab](https://github.com/KevinGiesberts/Virtual-Learning-Lab)
 - 🌱 I’m currently learning Django and Unity
 - 🤔 I’m looking for help with [Virtual Learning Lab](https://github.com/KevinGiesberts/Virtual-Learning-Lab)
-- 💼 Founder of [Virtual Learning Lab](https://github.com/Virtual-Learnin-gLab)
+- 💼 Founder of [Virtual Learning Lab](https://github.com/Virtual-Learning-Lab)
 ## Contact
   - [Discord](https://discordapp.com/users/776703468358467594)
 
