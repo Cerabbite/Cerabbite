@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kevin Giesberts
+### Hi there 👋, my name is Kevin
 
 Skills: Python, C#
 
