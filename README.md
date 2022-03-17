@@ -9,5 +9,5 @@ Skills: Python, C#
 ## Contact
   - [Discord](https://discordapp.com/users/776703468358467594)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinGiesberts)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KevinGiesberts)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Cerabbite)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Cerabbite)
