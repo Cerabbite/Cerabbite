@@ -4,8 +4,6 @@ Skills: Python
 
 - 🔭 I’m currently working on [Project Admiral](https://github.com/KevinGiesberts/Project-Admirals)
 - 🌱 I’m currently learning Rust, V
-- 🤔 I’m looking for help with [Virtual Learning Lab](https://github.com/KevinGiesberts/Virtual-Learning-Lab)
-- 💼 Founder of [Virtual Learning Lab](https://github.com/Virtual-Learning-Lab)
 ## Contact
   - [Discord](https://discordapp.com/users/776703468358467594)
 
