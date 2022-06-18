@@ -7,7 +7,7 @@ Skills: Python
 ## Contact
   - [Discord](https://discordapp.com/users/776703468358467594)
 
-<iframe src="https://ionicabizau.github.io/github-profile-languages/api.html?Cerabbite" frameborder="0"></iframe>
+![Top Languages](https://ionicabizau.github.io/github-profile-languages/api.html?Cerabbite)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Cerabbite)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Cerabbite)
