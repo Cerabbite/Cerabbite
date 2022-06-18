@@ -7,5 +7,6 @@ Skills: Python
 ## Contact
   - [Discord](https://discordapp.com/users/776703468358467594)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cerabbite)](https://github.com/anuraghazra/github-readme-stats)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Cerabbite)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Cerabbite)
