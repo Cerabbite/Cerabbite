@@ -6,7 +6,7 @@ Skills: Python
 - 🌱 I’m currently learning Rust, V
 ## Contact
   - [Discord](https://discordapp.com/users/776703468358467594)
-  - [email](cerabbite@outlook.com)
+  - [email](mailto:cerabbite@outlook.com)
 
 <!--![Top Languages](https://ionicabizau.github.io/github-profile-languages/api.html?Cerabbite)-->
 <!--![image](https://user-images.githubusercontent.com/98265679/174429207-db5b4994-9914-4260-8559-dc11fc2737fc.png)-->
